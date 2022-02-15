@@ -1,9 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&section=header&text=week-we-learn&fontSize=40&animation=fadeIn)
 
 <br/>
-<br/>
+
+## 목차
+
+1. [**스터디 목표**](#1)
+1. [**스터디 기한**](#2)
+1. [**스터디 멤버**](#3)
+1. [**Ground Rulee**](#4)
+
 <br/>
 
+## 스터디 목표
+
+## 스터디 기한  
+
+## 스터디 멤버 
 <div align="center">
   <table>
     <tr>
@@ -52,3 +64,10 @@
     </tr>
   </table>
 </div>
+
+## Ground Rule
+1. 1주일에 한번 화요일 저녁 ?시 1시간씩 스터디
+2. 각자 공부한 내용을 md 파일로 정리 후 깃허브에 커밋
+3. 각자 공부한 내용을 5분 ~ 10분 발표
+4. 발표할 때 질문 적어놓고 끝난 후 질문
+5. 발표한 내용 관련하여 추가적으로 아는 내용이 있다면 끝나고 말하기
