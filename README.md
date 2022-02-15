@@ -5,20 +5,21 @@
 ## 목차
 
 1. [**스터디 목표**](#1)
-1. [**스터디 기한**](#2)
-1. [**스터디 멤버**](#3)
-1. [**Ground Rule**](#4)
+2. [**스터디 기한**](#2)
+3. [**스터디 멤버**](#3)
+4. [**Ground Rule**](#4)
 
 <br/>
-
 <div id="1"></div>
 
 ## 스터디 목표
 
+<br/>
 <div id="2"></div>
 
 ## 스터디 기한  
 
+<br/>
 <div id="3"></div>
 
 ## 스터디 멤버 
@@ -71,6 +72,7 @@
   </table>
 </div>
 
+<br/>
 <div id="4"></div>
 
 ## Ground Rule
@@ -79,3 +81,9 @@
 3. 각자 공부한 내용을 5분 ~ 10분 발표
 4. 발표할 때 질문 적어놓고 끝난 후 질문
 5. 발표한 내용 관련하여 추가적으로 아는 내용이 있다면 끝나고 말하기
+
+<br/>
+<div id="5"></div>
+
+## markdown 사용법
+["markdown 예시"](https://github.com/week-we-learn/week-we-learn/blob/main/markdown.md)
