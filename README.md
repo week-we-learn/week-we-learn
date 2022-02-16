@@ -9,16 +9,17 @@
 3. [**스터디 멤버**](#3)
 4. [**Ground Rule**](#4)
 5. [**스터디 진행 일정표**](#5)
-6. [**markdown 사용법**](#5)
+6. [**Commit Convention**](#6)
+7. [**markdown 사용법**](#7)
 
 <br/>
 <div id="1"></div>
 
 ## 스터디 목표
 *한달이라도 하자 - 김한비:clown_face: -*  
-*배운거 복습하자 - 강지수 -*  
-*나의 목표는 지식뿐 아니라 행동이다 - 강소망 -*  
-*잘하는 개발자 - 하늘이-*
+*배운거 복습하자 - 강지수🌱 -*  
+*나의 목표는 지식뿐 아니라 행동이다 - 강소망:sparkles: -*  
+*잘하는 개발자 - 하늘이:dizzy:-*
 
 <br/>
 <div id="2"></div>
@@ -88,6 +89,7 @@
 3. 각자 공부한 내용을 **5분 ~ 10분 발표**
 4. 발표할 때 질문 적어놓고 끝난 후 질문
 5. 발표한 내용 관련하여 추가적으로 아는 내용이 있다면 끝나고 말하기
+6. 출처 표시
 
 <br/>
 <div id="5"></div>
@@ -140,6 +142,20 @@
 
 <br/>
 <div id="6"></div>
+
+## Commit Convention
+:clown_face: Upload: 커밋메시지
+
+| type | description |
+| :---------: | :----: |
+| Upload | 처음 올리는 글 | 
+| Update | 내용 추가 |  
+| Revise | 내용 수정 |
+| Delete | 글 삭제 |
+
+
+<br/>
+<div id="7"></div> 
 
 ## markdown 사용법
 ["markdown 예시"](https://github.com/week-we-learn/week-we-learn/blob/main/markdown.md)
