@@ -144,7 +144,7 @@
 <div id="6"></div>
 
 ## Commit Convention
-:clown_face: Upload: 커밋메시지
+:clown_face: Upload: #번호 커밋메시지
 
 | type | description |
 | :---------: | :----: |
