@@ -28,7 +28,7 @@
 
 <br><br>
 
-## 지속적 통합 (Continuis Integration: CI)
+## 지속적 통합 (Continus Integration: CI)
 버그 수정이나 새로 만든 기능들이 main repository 에 주기적으로 빌드되고 테스트되어 merge되는 것
 
 1. 개발자들은 코드 변경사항을 **주기적으로 빈번**하게 main repository 에 **merge** 해야한다.
