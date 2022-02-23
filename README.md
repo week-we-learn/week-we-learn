@@ -100,10 +100,10 @@
 #### 4주차
 | 날짜 (요일) | 발표자 |                                                                   발표 제목                                                                    |
 | :---------: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-| 02.23. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |     |
-| 02.23. (수) | 🌱<a href="https://github.com/kang-jisu">강지수</a> |                                 |
-| 02.23. (수) | :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |                                      |
-| 02.23. (수) | :dizzy:<a href="https://github.com/NEULiee">하늘이</a> |                               |
+| 02.23. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |[EDA란?](https://github.com/week-we-learn/week-we-learn/blob/main/%E2%9C%A8%EA%B0%95%EC%86%8C%EB%A7%9D/EDA%EB%9E%80.md)|
+| 02.23. (수) | 🌱<a href="https://github.com/kang-jisu">강지수</a> |[인덱스란?](https://github.com/week-we-learn/week-we-learn/blob/main/%F0%9F%8C%B1%EA%B0%95%EC%A7%80%EC%88%98/%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%9E%80_%EA%B0%95%EC%A7%80%EC%88%98.md)|
+| 02.23. (수) | :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |[함수형 인터페이스와 동작파라미터화](https://github.com/week-we-learn/week-we-learn/blob/main/%F0%9F%A4%A1%EA%B9%80%ED%95%9C%EB%B9%84/20220223.md)|
+| 02.23. (수) | :dizzy:<a href="https://github.com/NEULiee">하늘이</a> |[DevOps와 CI/CD](https://github.com/week-we-learn/week-we-learn/blob/main/%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/DevOps%EB%9E%80%3F_%ED%95%98%EB%8A%98%EC%9D%B4.md)|
 
 
 ### 2022년 3월
