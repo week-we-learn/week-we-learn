@@ -119,7 +119,7 @@ _잘하는 개발자 - 하늘이:dizzy:-_
 | :---------: | :-----------------------------------------------------------: | :------------------------------------------------------------: |
 | 03.02. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |                                                                |
 | 03.02. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      | [2.인덱스의 자료구조](./🌱강지수/2.인덱스의자료구조_강지수.md) |
-| 03.02. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |                                                                |
+| 03.02. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  | [Web과 App](https://github.com/week-we-learn/week-we-learn/blob/main/%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/Web%EA%B3%BC%20App_%ED%95%98%EB%8A%98%EC%9D%B4.md) |
 | 03.02. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |                                                                |
 
 #### 2주차
