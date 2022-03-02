@@ -16,21 +16,24 @@
 <div id="1"></div>
 
 ## 스터디 목표
-*한달이라도 하자 - 김한비:clown_face: -*  
-*배운거 복습하자 - 강지수🌱 -*  
-*나의 목표는 지식뿐 아니라 행동이다 - 강소망:sparkles: -*  
-*잘하는 개발자 - 하늘이:dizzy:-*
+
+_한달이라도 하자 - 김한비:clown_face: -_  
+_배운거 복습하자 - 강지수🌱 -_  
+_나의 목표는 지식뿐 아니라 행동이다 - 강소망:sparkles: -_  
+_잘하는 개발자 - 하늘이:dizzy:-_
 
 <br/>
 <div id="2"></div>
 
-## 스터디 기한  
+## 스터디 기한
+
 망이 취직할때까지
 
 <br/>
 <div id="3"></div>
 
-## 스터디 멤버 
+## 스터디 멤버
+
 <div align="center">
   <table>
     <tr>
@@ -84,6 +87,7 @@
 <div id="4"></div>
 
 ## Ground Rule
+
 1. **수요일 저녁 ?시** 1시간씩 스터디
 2. 각자 공부한 내용을 **md 파일로 정리 후 깃허브에 커밋**
 3. 각자 공부한 내용을 **5분 ~ 10분 발표**
@@ -95,67 +99,73 @@
 <div id="5"></div>
 
 ## 📅 스터디 진행 일정표
+
 ### 2022년 2월
 
 #### 4주차
-| 날짜 (요일) | 발표자 |                                                                   발표 제목                                                                    |
-| :---------: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-| 02.23. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |[EDA란?](https://github.com/week-we-learn/week-we-learn/blob/main/%E2%9C%A8%EA%B0%95%EC%86%8C%EB%A7%9D/EDA%EB%9E%80.md)|
-| 02.23. (수) | 🌱<a href="https://github.com/kang-jisu">강지수</a> |[인덱스란?](https://github.com/week-we-learn/week-we-learn/blob/main/%F0%9F%8C%B1%EA%B0%95%EC%A7%80%EC%88%98/%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%9E%80_%EA%B0%95%EC%A7%80%EC%88%98.md)|
-| 02.23. (수) | :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |[함수형 인터페이스와 동작파라미터화](https://github.com/week-we-learn/week-we-learn/blob/main/%F0%9F%A4%A1%EA%B9%80%ED%95%9C%EB%B9%84/20220223.md)|
-| 02.23. (수) | :dizzy:<a href="https://github.com/NEULiee">하늘이</a> |[DevOps와 CI/CD](https://github.com/week-we-learn/week-we-learn/blob/main/%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/DevOps%EB%9E%80%3F_%ED%95%98%EB%8A%98%EC%9D%B4.md)|
 
+| 날짜 (요일) |                            발표자                             |                                                                              발표 제목                                                                               |
+| :---------: | :-----------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 02.23. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |                       [EDA란?](https://github.com/week-we-learn/week-we-learn/blob/main/%E2%9C%A8%EA%B0%95%EC%86%8C%EB%A7%9D/EDA%EB%9E%80.md)                        |
+| 02.23. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |                                                             [인덱스란?](./🌱강지수/1.인덱스란_강지수.md)                                                             |
+| 02.23. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |          [함수형 인터페이스와 동작파라미터화](https://github.com/week-we-learn/week-we-learn/blob/main/%F0%9F%A4%A1%EA%B9%80%ED%95%9C%EB%B9%84/20220223.md)          |
+| 02.23. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     | [DevOps와 CI/CD](https://github.com/week-we-learn/week-we-learn/blob/main/%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/DevOps%EB%9E%80%3F_%ED%95%98%EB%8A%98%EC%9D%B4.md) |
 
 ### 2022년 3월
+
 #### 1주차
-| 날짜 (요일) | 발표자 |                                                                   발표 제목                                                                    |
-| :---------: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-| 03.02. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |     |
-| 03.02. (수) | 🌱<a href="https://github.com/kang-jisu">강지수</a> |                                 |
-| 03.02. (수) | :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |                                      |
-| 03.02. (수) | :dizzy:<a href="https://github.com/NEULiee">하늘이</a> |                               |
+
+| 날짜 (요일) |                            발표자                             |                           발표 제목                            |
+| :---------: | :-----------------------------------------------------------: | :------------------------------------------------------------: |
+| 03.02. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |                                                                |
+| 03.02. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      | [2.인덱스의 자료구조](./🌱강지수/2.인덱스의자료구조_강지수.md) |
+| 03.02. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |                                                                |
+| 03.02. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |                                                                |
 
 #### 2주차
-| 날짜 (요일) | 발표자 |                                                                   발표 제목                                                                    |
-| :---------: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-| 03.09. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |     |
-| 03.09. (수) | 🌱<a href="https://github.com/kang-jisu">강지수</a> |                                 |
-| 03.09. (수) | :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |                                      |
-| 03.09. (수) | :dizzy:<a href="https://github.com/NEULiee">하늘이</a> |                               |
+
+| 날짜 (요일) |                            발표자                             | 발표 제목 |
+| :---------: | :-----------------------------------------------------------: | :-------: |
+| 03.09. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |           |
+| 03.09. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |           |
+| 03.09. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |           |
+| 03.09. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |           |
 
 #### 3주차
-| 날짜 (요일) | 발표자 |                                                                   발표 제목                                                                    |
-| :---------: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-| 03.16. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |     |
-| 03.16. (수) | 🌱<a href="https://github.com/kang-jisu">강지수</a> |                                 |
-| 03.16. (수) | :clown_face:<a href="https://github.com/hanbi97">김한비</a> |                                      |
-| 03.16. (수) | :dizzy:<a href="https://github.com/NEULiee">하늘이</a> |                               |
+
+| 날짜 (요일) |                            발표자                             | 발표 제목 |
+| :---------: | :-----------------------------------------------------------: | :-------: |
+| 03.16. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |           |
+| 03.16. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |           |
+| 03.16. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |           |
+| 03.16. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |           |
 
 #### 4주차
-| 날짜 (요일) | 발표자 |                                                                   발표 제목                                                                    |
-| :---------: | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-| 03.23. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |     |
-| 03.23. (수) | 🌱<a href="https://github.com/kang-jisu">강지수</a> |                                 |
-| 03.23. (수) | :clown_face:<a href="https://github.com/hanbi97">김한비</a> |                                      |
-| 03.23. (수) | :dizzy:<a href="https://github.com/NEULiee">하늘이</a> |                               |
 
+| 날짜 (요일) |                            발표자                             | 발표 제목 |
+| :---------: | :-----------------------------------------------------------: | :-------: |
+| 03.23. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |           |
+| 03.23. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |           |
+| 03.23. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |           |
+| 03.23. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |           |
 
 <br/>
 <div id="6"></div>
 
 ## Commit Convention
+
 :clown_face: Upload: #번호 커밋메시지
 
-| type | description |
-| :---------: | :----: |
-| Upload | 처음 올리는 글 | 
-| Update | 내용 추가 |  
-| Revise | 내용 수정 |
-| Delete | 글 삭제 |
-
+|  type  |  description   |
+| :----: | :------------: |
+| Upload | 처음 올리는 글 |
+| Update |   내용 추가    |
+| Revise |   내용 수정    |
+| Delete |    글 삭제     |
 
 <br/>
-<div id="7"></div> 
+<div id="7"></div>
 
 ## markdown 사용법
+
 ["markdown 예시"](https://github.com/week-we-learn/week-we-learn/blob/main/markdown.md)
