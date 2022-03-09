@@ -19,7 +19,7 @@ Week: 8주차
 ![img1](Image3_2/img1.png)
 
 <aside>
-💡 **Computer Graphics(Rendering) ↔️ Computer Vision(Inverse Rendering)**
+💡 Computer Graphics(Rendering) ↔️ Computer Vision(Inverse Rendering)
 
 </aside>
 
