@@ -16,7 +16,7 @@ Week: 8주차
 
  여기서 output은 어떠한 class가 될 수 있다.
 
-![Untitled](Image%20Clas%20a49e2/Untitled.png)
+![img1](Image3_2/img1.png)
 
 <aside>
 💡 **Computer Graphics(Rendering) ↔️ Computer Vision(Inverse Rendering)**
@@ -31,9 +31,11 @@ Input인 Image에 대해 Classifier를 통해 Output(class)를 나타내는 것
 
 이런 classification 문제는 k Nearest Neighbors(k-NN) 문제를 통해 해결될 수 있다.
 
-![Untitled](Image%20Clas%20a49e2/Untitled%201.png)
+![img2](Image3_2/img2.png)
 
-![Untitled](Image%20Clas%20a49e2/Untitled%202.png)
+
+![img3](Image3_2/img3.png)
+
 
 k-NN : Label 정보를 기반으로 주위에 어떤 데이터가 주로 분포되어 있는 지를 파악하는 기술
 
@@ -45,7 +47,8 @@ k-NN : Label 정보를 기반으로 주위에 어떤 데이터가 주로 분포�
 
 ### Neural Network
 
-![간단한 Fully connected layer network](Image%20Clas%20a49e2/Untitled%203.png)
+![img4](Image3_2/img4.png)
+
 
 간단한 Fully connected layer network
 
@@ -59,7 +62,7 @@ k-NN : Label 정보를 기반으로 주위에 어떤 데이터가 주로 분포�
 
 ## CNN : Convolution Neural Network
 
-![Untitled](Image%20Clas%20a49e2/Untitled%204.png)
+![img5](Image3_2/img5.png)
 
 Fully → Locally
 
