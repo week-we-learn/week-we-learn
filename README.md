@@ -108,7 +108,7 @@ _잘하는 개발자 - 하늘이:dizzy:-_
 | :---------: | :-----------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 02.23. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |                       [EDA란?](https://github.com/week-we-learn/week-we-learn/blob/main/%E2%9C%A8%EA%B0%95%EC%86%8C%EB%A7%9D/EDA%EB%9E%80.md)                        |
 | 02.23. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |                                                             [인덱스란?](./🌱강지수/1.인덱스란_강지수.md)                                                             |
-| 02.23. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |          [함수형 인터페이스와 동작파라미터화](https://github.com/week-we-learn/week-we-learn/blob/main/%F0%9F%A4%A1%EA%B9%80%ED%95%9C%EB%B9%84/20220223.md)          |
+| 02.23. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |          [함수형 인터페이스와 동작파라미터화](./🤡김한비/1. 함수형 프로그래밍.md)          |
 | 02.23. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     | [DevOps와 CI/CD](https://github.com/week-we-learn/week-we-learn/blob/main/%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/DevOps%EB%9E%80%3F_%ED%95%98%EB%8A%98%EC%9D%B4.md) |
 
 ### 2022년 3월
@@ -119,8 +119,8 @@ _잘하는 개발자 - 하늘이:dizzy:-_
 | :---------: | :-----------------------------------------------------------: | :------------------------------------------------------------: |
 | 03.02. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |                                                                |
 | 03.02. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      | [2.인덱스의 자료구조](./🌱강지수/2.인덱스의자료구조_강지수.md) |
-| 03.02. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  | [Web과 App](https://github.com/week-we-learn/week-we-learn/blob/main/%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/Web%EA%B3%BC%20App_%ED%95%98%EB%8A%98%EC%9D%B4.md) |
-| 03.02. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |                                                                |
+| 03.02. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |  [2.동작파라미터화](./🤡김한비/2. 동작파라미터화.md)|
+| 03.02. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     | [Web과 App](https://github.com/week-we-learn/week-we-learn/blob/main/%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/Web%EA%B3%BC%20App_%ED%95%98%EB%8A%98%EC%9D%B4.md)                                                               |
 
 #### 2주차
 
@@ -128,7 +128,7 @@ _잘하는 개발자 - 하늘이:dizzy:-_
 | :---------: | :-----------------------------------------------------------: | :-------: |
 | 03.09. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |           |
 | 03.09. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |           |
-| 03.09. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |           |
+| 03.09. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  | [3.람다표현식](./🤡김한비/3. 람다 표현식.md)        |
 | 03.09. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |           |
 
 #### 3주차
