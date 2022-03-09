@@ -12,6 +12,13 @@ In software engineering, the delegation pattern is an ***object-oriented design 
 
 Delegate 패턴은 객체 구성이 상속과 동일한 코드 재사용을 달성할 수 있도록 하는 **객체지향 디자인 패턴**입니다.
 
+Delegate의 사전적 정의: '위임하다'  
+다른 객체에게 자신의 일을 위임하는 형태의 디자인패턴  
+Delegate는 어떤 객체가 해야하는 일을 부분적으로 **확장**해서 대신 **처리**를 한다.
+
+#### Delegate 패턴을 사용하는 이유
+- 코드를 재사용하고 유지보수하기 쉬워진다.
+
 <br>
 
 ## 예시로 알아보는 Delegate 패턴
@@ -168,6 +175,14 @@ public class FirstRoomGetter implements RoomGetter {
         ...
     };
 }
+```
+
+**[Delegate를 사용한 코드]**
+```
+Worker me = new Worker();
+
+RoomGetter roomGetter = new FirstRoomGetter(me);
+me.방 계약();
 ```
 
   
