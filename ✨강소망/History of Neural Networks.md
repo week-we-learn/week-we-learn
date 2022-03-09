@@ -2,7 +2,7 @@
 
 Week: 8주차
 
-![Untitled](History%20of%208a7a7/Untitled.png)
+![img1](Image3_1/img1.png)
 
 # AlexNet
 
@@ -15,7 +15,7 @@ Week: 8주차
 - Pooling: 2x2 max pooling with stride 2
 </aside>
 
-![Untitled](History%20of%208a7a7/Untitled%201.png)
+![img2](Image3_1/img2.png)
 
 Alexnet은 두 갈래의 path가 존재한다. 당시만 해도 이 network를 감당할 memory가 부족하였기에 한 번에 진행하지 않고 두 갈래로 나누어 2개의 GPU를 사용했다고 한다.
 
@@ -36,7 +36,7 @@ Alexnet의 주요 특징으로는
 
 # VGGNet
 
-![Untitled](History%20of%208a7a7/Untitled%202.png)
+![img3](Image3_1/img3.png)
 
 - Deeper architecture : 16 and 19 layers
 - Simple architecture : No local response normalization, only 3x3 conv filters blocks, 2x2 max pooling
@@ -51,11 +51,11 @@ Alexnet의 주요 특징으로는
 
 다양한 필터를 적용하여 concatenate 한다.
 
-![Untitled](History%20of%208a7a7/Untitled%203.png)
+![img4](Image3_1/img4.png)
 
 오른쪽 그림을 보면 **1x1 convolution**을 사용하는데 이것이 GoogLeNet의 핵심이다.
 
-![Untitled](History%20of%208a7a7/Untitled%204.png)
+![img5](Image3_1/img5.png)
 
 이렇게 1x1 convolution을 여러겹 쌓으면 filter의 갯수만큼 채널이 생기지만 공간적인 크기는 바뀌지 않는다는 장점이 있다.
 
@@ -77,24 +77,21 @@ Alexnet의 주요 특징으로는
 
 근래에 자주 사용되는 model
 
-![[그림1] CIFAR-10 데이터에 대한 training error(왼쪽) 그리고 test error(오른쪽)](History%20of%208a7a7/Untitled%205.png)
-
-[그림1] CIFAR-10 데이터에 대한 training error(왼쪽) 그리고 test error(오른쪽)
+![[img6] CIFAR-10 데이터에 대한 training error(왼쪽) 그리고 test error(오른쪽)](Image3_1/img6.png)
 
 **Degradation** 문제 발생 : 어느정도 이상 깊어진 네트워크에서 vanishing/exploding gradient 문제 때문에 성능이 더 떨어지는 문제
 
 **→ ResNet은 이를 해결 하기 위해 shortcut connection을 사용**
 
-![[그림2] 기존 neural net과 residual net](History%20of%208a7a7/Untitled%206.png)
+![[img7] 기존 neural net과 residual net](Image3_1/img7.png)
 
-[그림2] 기존 neural net과 residual net
 
 Plain net 보다 Residual net이 더 학습이 쉽다는 가정을 사용했다.
 
 <aside>
 💡 Overall architecture
 
-![Untitled](History%20of%208a7a7/Untitled%207.png)
+![img8](Image3_1/img8.png)
 
 - Convolutional Layer : 3x3 Filter 사용 (특징맵의 크기가 같은 레이어는 필터의 갯수도 같고, 특징맵의 크기가 절반으로 줄어들면 필터의 갯수는 두배로 증가시킴)
 - Pooling Layer : Stride = 2의 Downsampling 적용, Fully-Connected Layer 이전에 Avg Pooling 적용
@@ -112,7 +109,7 @@ Plain net 보다 Residual net이 더 학습이 쉽다는 가정을 사용했다.
 
 Deep, Wide, and high Resolution networks
 
-![Untitled](History%20of%208a7a7/Untitled%208.png)
+![img9](Image3_1/img9.png)
 
 (b),(c),(d) 모두 성능 향상에 도움이 되는 방법인데 이들을 적절히 섞어 더 우수한 성능을 내는 모델이다.
 
