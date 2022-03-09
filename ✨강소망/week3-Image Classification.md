@@ -34,7 +34,6 @@ Input인 Image에 대해 Classifier를 통해 Output(class)를 나타내는 것
 ![img2](Image3_2/img2.png)
 
 
-![img3](Image3_2/img3.png)
 
 
 k-NN : Label 정보를 기반으로 주위에 어떤 데이터가 주로 분포되어 있는 지를 파악하는 기술
@@ -47,10 +46,9 @@ k-NN : Label 정보를 기반으로 주위에 어떤 데이터가 주로 분포�
 
 ### Neural Network
 
-![img4](Image3_2/img4.png)
+![img3](Image3_2/img3.png)
 
 
-간단한 Fully connected layer network
 
 각각의 pixel에 대해 서로 다른 가중치로 weighted sum을 하고 Non-Linear Activation Function을 활용하여 분류스코어로 출력한다.
 
@@ -62,7 +60,7 @@ k-NN : Label 정보를 기반으로 주위에 어떤 데이터가 주로 분포�
 
 ## CNN : Convolution Neural Network
 
-![img5](Image3_2/img5.png)
+![img4](Image3_2/img4.png)
 
 Fully → Locally
 
