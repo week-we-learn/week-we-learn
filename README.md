@@ -135,8 +135,8 @@ _잘하는 개발자 - 하늘이:dizzy:-_
 
 | 날짜 (요일) |                            발표자                             | 발표 제목 |
 | :---------: | :-----------------------------------------------------------: | :-------: |
-| 03.16. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |           |
-| 03.16. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |           |
+| 03.16. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |[MathQuestions](./✨강소망/week4-MathQuestions.md)|
+| 03.16. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      | [Blocking vs NonBlocking, 동기 vs 비동기](./🌱강지수/Blocking_vs_NonBlocking,_동기_vs_비동기.md)|
 | 03.16. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  | [4. Stream](./🤡김한비/4._Stream.md) |
 | 03.16. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |  [MVC와 MVVM](./💫하늘이/MVC와_MVVM.md)  |
 
