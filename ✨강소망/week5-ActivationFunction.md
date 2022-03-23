@@ -30,9 +30,6 @@ Activation Function : 입력 데이터를 다음 레이어로 어떻게 출력�
 
 ![Untitled](Image5/Untitled%203.png)
 
-![Untitled](Image5/Untitled%204.png)
-
-![Untitled](Image5/Untitled%205.png)
 
 - 함수의 중심점을 0으로 옮겨 sigmoid가 갖고 있던 최적화 과정에서 느려지는 문제를 해결
 - 여전히 vanishing gradient 문제 발생
