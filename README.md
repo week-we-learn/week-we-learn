@@ -146,7 +146,7 @@ _잘하는 개발자 - 하늘이:dizzy:-_
 | :---------: | :-----------------------------------------------------------: | :-------: |
 | 03.23. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |           |
 | 03.23. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |           |
-| 03.23. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |           |
+| 03.23. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |    [5. 오브젝트](./🤡김한비/5._오브젝트.md)       |
 | 03.23. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |           |
 
 <br/>
