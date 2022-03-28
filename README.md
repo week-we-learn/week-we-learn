@@ -144,10 +144,10 @@ _잘하는 개발자 - 하늘이:dizzy:-_
 
 | 날짜 (요일) |                            발표자                             | 발표 제목 |
 | :---------: | :-----------------------------------------------------------: | :-------: |
-| 03.23. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |           |
-| 03.23. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |           |
-| 03.23. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |    [5. 오브젝트](./🤡김한비/5._오브젝트.md)       |
-| 03.23. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |           |
+| 03.23. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> | [ActivationFunction](./✨강소망/week5-ActivationFunction.md) |
+| 03.23. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      | [코딩테스트](./🌱강지수/5._코딩테스트.md) |
+| 03.23. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  | [5. 오브젝트](./🤡김한비/5._오브젝트.md) |
+| 03.23. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     | [next_permutation](./💫하늘이/next_permutation.md) |
 
 <br/>
 <div id="6"></div>
