@@ -6,7 +6,7 @@
 
 **이미지 안의 Object 가 이미지 안의 어느 위치에 있는지 위치 정보를 출력해주는 것으로, 주로 Bounding box 를 많이 사용합니다.**
 
-![Untitled](Image6/Untitled%Untitled.png)
+![Untitled](Image6/Untitled.png)
 
 
 - 이미지를 car라고 분류하는 것을 **'Image classification'**
