@@ -149,6 +149,14 @@ _잘하는 개발자 - 하늘이:dizzy:-_
 | 03.23. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  | [5. 오브젝트](./🤡김한비/5._오브젝트.md) |
 | 03.23. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     | [next_permutation](./💫하늘이/next_permutation.md) |
 
+#### 5주차
+
+| 날짜 (요일) |                            발표자                             | 발표 제목 |
+| :---------: | :-----------------------------------------------------------: | :-------: |
+| 03.31. (목) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |  |
+| 03.31. (목) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |  |
+| 03.31. (목) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  | [5. 오브젝트](./🤡김한비/5._오브젝트.md) |
+| 03.31. (목) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |  |
 <br/>
 <div id="6"></div>
 
