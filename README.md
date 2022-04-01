@@ -153,11 +153,10 @@ _잘하는 개발자 - 하늘이:dizzy:-_
 
 |                                날짜 (요일)                                 |                            발표자                             |                발표 제목                 |
 | :------------------------------------------------------------------------: | :-----------------------------------------------------------: | :--------------------------------------: |
-|                                03.31. (목)                                 | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |                                          |
-|                                03.31. (목)                                 |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |
-| [6.Spring, JOIN](./%F0%9F%8C%B1%EA%B0%95%EC%A7%80%EC%88%98/6.%20Spring.md) |
+|                                03.31. (목)                                 | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |     [Localization](https://github.com/week-we-learn/week-we-learn/blob/main/%E2%9C%A8%EA%B0%95%EC%86%8C%EB%A7%9D/week6-Localization.md)                                    |
+|                                03.31. (목)                                 |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |[6.Spring, JOIN](./%F0%9F%8C%B1%EA%B0%95%EC%A7%80%EC%88%98/6.%20Spring.md) |
 |                                03.31. (목)                                 |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  | [5. 오브젝트](./🤡김한비/5._오브젝트.md) |
-|                                03.31. (목)                                 |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |                                          |
+|                                03.31. (목)                                 |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |    [정규식이란?](https://github.com/week-we-learn/week-we-learn/blob/main/%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/%EC%A0%95%EA%B7%9C%EC%8B%9D%EC%9D%B4%EB%9E%80%3F.md)                                     |
 
 <br/>
 <div id="6"></div>
