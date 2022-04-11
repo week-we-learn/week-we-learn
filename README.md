@@ -166,7 +166,7 @@ _잘하는 개발자 - 하늘이:dizzy:-_
 | :---------: | :-----------------------------------------------------------: | :----------------------------------------------------------: |
 | 04.07. (목) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> | [ObjectDetection_competition](./✨강소망/week7_ObjectDetection_competition.md)|
 | 04.07. (목) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |  [CS정리](./%F0%9F%8C%B1%EA%B0%95%EC%A7%80%EC%88%98/7.%20CS정리.md)|
-| 04.07. (목) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  | [](./) |
+| 04.07. (목) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  | ex 문제 풀이 |
 | 04.07. (목) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |      [Realm이란?](./%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/Realm%EC%9D%B4%EB%9E%80%3F.md)      |
 
 #### 2주차
