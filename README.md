@@ -175,17 +175,17 @@ _잘하는 개발자 - 하늘이:dizzy:-_
 | :---------: | :-----------------------------------------------------------: | :----------------------------------------------------------: |
 | 04.14. (목) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |  |
 | 04.14. (목) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |  |
-| 04.14. (목) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |  |
+| 04.14. (목) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  | [6. 스프링강의](./🤡김한비/6._스프링강의.md) |
 | 04.14. (목) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |  |
 
 #### 3주차
 
 | 날짜 (요일) |                            발표자                             |                          발표 제목                           |
 | :---------: | :-----------------------------------------------------------: | :----------------------------------------------------------: |
-| 04.21. (목) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |  |
-| 04.21. (목) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |  |
-| 04.21. (목) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |  |
-| 04.21. (목) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |  |
+| 04.23. (토) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |  |
+| 04.23. (토) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |  |
+| 04.23. (토) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  | [7. update 가능한 heap](./🤡김한비/7._update_가능한_heap.md) |
+| 04.23. (토) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |  |
 
 #### 4주차
 
