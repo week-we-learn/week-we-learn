@@ -1,0 +1,81 @@
+## 그냥 자바로 개발하다보니 발생하는 문제
+1. 클라이언트가 interface 뿐만 아니라 그 구현체에도 의존하는 상황 발생(DIP, dependency inversion policy 위반)
+2. 클라이언트가 의존하는 서버 구현 객체를 직접 생성하고 실행, 하나의 객체는 하나의 일만 해야되는데 여러 일을 다 하게 되버림  
+=> 어플리케이션 전체 동작방식 구성하고 구현객체를 생성하고 연결하는 AppConfig 생성  
+=> 사용 영역과 구성 영역이 분리되어 있으므로 변경사항이 있더라도 관련된 부분만 수정하면 됨  
+
+<br>
+  
+## 객체지향 설계 원칙에 적용해서 생각
+1. SRP(Single Responsibility)
+  * 1클1책
+  * 구현 객체 생성 및 연결은 AppConfig 담당
+  * 클라 객체는 실행만
+2. DIP(Dependency Inversion)
+  * 제발.. 클라이언트가 직접 구현체에 의존하게 하지마
+  * AppConfig 같은애가 클라이언트 대신 구현체 생성하고 의존관계 주입하게해  
+  ```
+  // STOP
+  private MemberRepository memberRepository = new MemberRepository(..); 
+  
+  // GOOD
+  class MemberServiceImpl{
+    private final MemberRepository memberRepository;
+    Initializer
+    public T function(..){
+      Member member = memberRepository.doSomething();
+      ..
+    }
+  }
+  ..
+  
+  class AppConfig{
+    public MemberService memberService(){
+      return new MemberServiceImpl(memberRepository());
+    }
+  }
+  ```
+3. OCP(Open Closed)
+  * OOP로 짜면 기능 추가하거나 코드 수정할때 다른 코드 변경할 필요가 없어짐
+  * 코드를 바꾸게 된다면 내가 설계를 잘못한것
+
+<br>
+
+## IoC
+내가 new로 객체 생성해서 -> 이 객체가 뭔 일을 하고 -> 어떤 결과를 내라 를 코드로 다 작성하는게 아니라  
+이런 제어 흐름을 프로그램에 맡기는거  
+프레임워크: 내가 작성한 코드를 제어하고 대신 실행(JUnit)  
+라이브러리: 내가 작성한 코드가 직접 제어의 흐름을 담당함  
+
+<br>
+  
+## DI
+의존관계 자세한건 오브젝트를 읽어보자  
+컴파일 타임 의존성(코드) / 런타임 의존성 두 종류가 있음
+
+<br>
+
+## Spring으로 변환
+  ```
+  @Configuration //이 클래스는 설정정보가 된다.  
+  class AppConfig{
+  
+    @Bean //이 메서드 스프링에 등록되서 관리될거다
+    public void function(){
+    }
+  
+  }
+  ```
+  
+  <br>
+  
+  ```
+  psvm{
+  
+    ApplicationContext applicationContext = new AnnotationConfigApplicationContext(AppConfig.class);
+    //AppConfig 정보를 스프링에 등록, 스프링 컨테이너가 알아서 관리해줄거다
+  
+    applicationContext.getBean("bean 등록된 함수 이름");
+    ...
+  }
+  ```
