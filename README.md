@@ -109,7 +109,7 @@ _잘하는 개발자 - 하늘이:dizzy:-_
 | 02.23. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |                   [EDA란?](./✨강소망/week1-EDA란.md)                    |
 | 02.23. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |             [1. 인덱스란?](./🌱강지수/1.인덱스란_강지수.md)              |
 | 02.23. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  | [함수형 인터페이스와 동작파라미터화](./🤡김한비/1._함수형_프로그래밍.md) |
-| 02.23. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |             [DevOps와 CI/CD](./💫하늘이/DevOps란?_하늘이.md)             |
+| 02.23. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |             [DevOps와 CI/CD](./%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/DevOps란?_하늘이.md)             |
 
 ### 2022년 3월
 
@@ -120,7 +120,7 @@ _잘하는 개발자 - 하늘이:dizzy:-_
 | 03.02. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> | [Mask Image Classification](./✨강소망/week2-Mask_Image_Classification.md) |
 | 03.02. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |      [2. 인덱스의 자료구조](./🌱강지수/2.인덱스의자료구조_강지수.md)       |
 | 03.02. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |            [2. 동작파라미터화](./🤡김한비/2._동작파라미터화.md)            |
-| 03.02. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |                [Web과 App](./💫하늘이/Web과_App_하늘이.md)                 |
+| 03.02. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |                [Web과 App](./%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/Web과_App_하늘이.md)                 |
 
 #### 2주차
 
@@ -129,7 +129,7 @@ _잘하는 개발자 - 하늘이:dizzy:-_
 | 03.09. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> | [History of Neural Networks](./✨강소망/week3-History_of_Neural_Networks.md) |
 | 03.09. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |                [3. HTTP 커넥션](./🌱강지수/3._HTTP_커넥션.md)                |
 | 03.09. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |                [3. 람다표현식](./🤡김한비/3._람다_표현식.md)                 |
-| 03.09. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |         [Delegate패턴이란?](./💫하늘이/Delegate_패턴이란?_하늘이.md)         |
+| 03.09. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |         [Delegate패턴이란?](./%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/Delegate_패턴이란?_하늘이.md)         |
 
 #### 3주차
 
@@ -138,7 +138,7 @@ _잘하는 개발자 - 하늘이:dizzy:-_
 | 03.16. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |                                                               [MathQuestions](./✨강소망/week4-MathQuestions.md)                                                               |
 | 03.16. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      | [Blocking vs NonBlocking, 동기 vs 비동기](./%F0%9F%8C%B1%EA%B0%95%EC%A7%80%EC%88%98/Blocking%20vs%20NonBlocking%2C%20%EB%8F%99%EA%B8%B0%20vs%20%EB%B9%84%EB%8F%99%EA%B8%B0.md) |
 | 03.16. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |                                                                      [4. Stream](./🤡김한비/4._Stream.md)                                                                      |
-| 03.16. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |                                                                     [MVC와 MVVM](./💫하늘이/MVC와_MVVM.md)                                                                     |
+| 03.16. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |                                                                     [MVC와 MVVM](./%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/MVC와_MVVM.md)                                                                     |
 
 #### 4주차
 
@@ -147,7 +147,7 @@ _잘하는 개발자 - 하늘이:dizzy:-_
 | 03.23. (수) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> | [ActivationFunction](./✨강소망/week5-ActivationFunction.md) |
 | 03.23. (수) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |          [코딩테스트](./🌱강지수/5._코딩테스트.md)           |
 | 03.23. (수) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |           [5. 오브젝트](./🤡김한비/5._오브젝트.md)           |
-| 03.23. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |      [next_permutation](./💫하늘이/next_permutation.md)      |
+| 03.23. (수) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |      [next_permutation](./%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/next_permutation.md)      |
 
 #### 5주차
 
@@ -173,29 +173,67 @@ _잘하는 개발자 - 하늘이:dizzy:-_
 
 | 날짜 (요일) |                            발표자                             |                          발표 제목                           |
 | :---------: | :-----------------------------------------------------------: | :----------------------------------------------------------: |
-| 04.14. (목) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |  |
-| 04.14. (목) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |  |
-| 04.14. (목) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  | [6. 스프링강의](./🤡김한비/6._스프링강의.md) |
-| 04.14. (목) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |  |
+| 04.14. (목) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> | [Localization](./✨강소망/week6-Localization.md) | 
+| 04.14. (목) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      | [Spring](./%F0%9F%8C%B1%EA%B0%95%EC%A7%80%EC%88%98/6.%20Spring.md) |
+| 04.14. (목) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  | [스프링강의](./%F0%9F%A4%A1%EA%B9%80%ED%95%9C%EB%B9%84/Spring%F0%9F%8C%B8) |
+| 04.14. (목) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |  [클래스와 구조체](./%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/클래스와%20구조체.md) |
 
 #### 3주차
 
 | 날짜 (요일) |                            발표자                             |                          발표 제목                           |
 | :---------: | :-----------------------------------------------------------: | :----------------------------------------------------------: |
-| 04.23. (토) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |  |
-| 04.23. (토) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |  |
-| 04.23. (토) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  | [7. update 가능한 heap](./🤡김한비/7._update_가능한_heap.md) |
-| 04.23. (토) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |  |
+| 04.23. (토) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |[ObjectDetection_competition](./✨강소망/week7_ObjectDetection_competition.md)  |
+| 04.23. (토) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      | [불변객체와 일급컬렉션](./%F0%9F%8C%B1%EA%B0%95%EC%A7%80%EC%88%98/8.%20불변객체와%20일급컬렉션.md)  |
+| 04.23. (토) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  | [update 가능한 heap](./%F0%9F%A4%A1%EA%B9%80%ED%95%9C%EB%B9%84/7.%20update%20가능한%20heap.md) |
+| 04.23. (토) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     | [개인 프로젝트](./%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/Project.md)  |
 
 #### 4주차
 
 | 날짜 (요일) |                            발표자                             |                          발표 제목                           |
 | :---------: | :-----------------------------------------------------------: | :----------------------------------------------------------: |
-| 04.28. (목) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |  |
-| 04.28. (목) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |  |
-| 04.28. (목) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |  |
-| 04.28. (목) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |  |
+| 04.28. (목) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> | [C++문자열 정리](./✨강소망/week8-c++%20문자열정리.md) |
+| 04.28. (목) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |  [git flow](./%F0%9F%8C%B1%EA%B0%95%EC%A7%80%EC%88%98/9.%20git%20flow.md)  |
+| 04.28. (목) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |  [스프링강의](./%F0%9F%A4%A1%EA%B9%80%ED%95%9C%EB%B9%84/Spring%F0%9F%8C%B8)|
+| 04.28. (목) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |  [TDD를 작성하는 이유](./%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/TDD를%20작성하는%20이유.md)  |
 
+
+### 2022년 5월
+
+#### 1주차
+
+| 날짜 (요일) |                            발표자                             |                          발표 제목                           |
+| :---------: | :-----------------------------------------------------------: | :----------------------------------------------------------: |
+| 05.05. (목) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> | [vector의 사용](./✨강소망/week9-vector의%20사용.md) |
+| 05.05. (목) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |   [](./%F0%9F%8C%B1%EA%B0%95%EC%A7%80%EC%88%98/) |
+| 05.05. (목) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |  [](./%F0%9F%A4%A1%EA%B9%80%ED%95%9C%EB%B9%84/) |
+| 05.05. (목) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |  [](./%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/) |
+
+#### 2주차
+
+| 날짜 (요일) |                            발표자                             |                          발표 제목                           |
+| :---------: | :-----------------------------------------------------------: | :----------------------------------------------------------: |
+| 05.12. (목) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> |[](./✨강소망/) |
+| 05.12. (목) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |  [](./%F0%9F%8C%B1%EA%B0%95%EC%A7%80%EC%88%98/)  |
+| 05.12. (목) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |  [](./%F0%9F%A4%A1%EA%B9%80%ED%95%9C%EB%B9%84/) |
+| 05.12. (목) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |   [](./%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/)|
+
+#### 3주차
+
+| 날짜 (요일) |                            발표자                             |                          발표 제목                           |
+| :---------: | :-----------------------------------------------------------: | :----------------------------------------------------------: |
+| 05.19. (목) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> | [](./✨강소망/) |
+| 05.19. (목) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |  [](./%F0%9F%8C%B1%EA%B0%95%EC%A7%80%EC%88%98/)  |
+| 05.19. (목) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |  [](./%F0%9F%A4%A1%EA%B9%80%ED%95%9C%EB%B9%84/) |
+| 05.19. (목) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |  [](./%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/) |
+
+#### 4주차
+
+| 날짜 (요일) |                            발표자                             |                          발표 제목                           |
+| :---------: | :-----------------------------------------------------------: | :----------------------------------------------------------: |
+| 05.26. (목) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> | [](./✨강소망/) |
+| 05.26. (목) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |  [](./%F0%9F%8C%B1%EA%B0%95%EC%A7%80%EC%88%98/)  |
+| 05.26. (목) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |  [](./%F0%9F%A4%A1%EA%B9%80%ED%95%9C%EB%B9%84/) |
+| 05.26. (목) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |   [](./%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/) |
 
 
 <br/>
