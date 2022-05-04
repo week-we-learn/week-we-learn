@@ -199,12 +199,12 @@ _잘하는 개발자 - 하늘이:dizzy:-_
 
 ### 2022년 5월
 
-#### 1주차
+#### 1주차 (Refresh Week)
 
 | 날짜 (요일) |                            발표자                             |                          발표 제목                           |
 | :---------: | :-----------------------------------------------------------: | :----------------------------------------------------------: |
 | 05.05. (목) | :sparkles:<a href="https://github.com/Somang-Kang">강소망</a> | [vector의 사용](./✨강소망/week9-vector의%20사용.md) |
-| 05.05. (목) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |   [](./%F0%9F%8C%B1%EA%B0%95%EC%A7%80%EC%88%98/) |
+| 05.05. (목) |      🌱<a href="https://github.com/kang-jisu">강지수</a>      |   [클래스 분리](./%F0%9F%8C%B1%EA%B0%95%EC%A7%80%EC%88%98/10.%20클래스%20분리.md) |
 | 05.05. (목) |  :clown_face:<a href="https://github.com/hanbi97">김한비</a>  |  [](./%F0%9F%A4%A1%EA%B9%80%ED%95%9C%EB%B9%84/) |
 | 05.05. (목) |    :dizzy:<a href="https://github.com/NEULiee">하늘이</a>     |  [](./%F0%9F%92%AB%ED%95%98%EB%8A%98%EC%9D%B4/) |
 
